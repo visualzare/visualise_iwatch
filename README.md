@@ -1,6 +1,10 @@
 # Visualise iWatch
 
-Visualise data from your Apple Watch
+Visualise data from your Apple Watch in a creative way
+
+<img width="459" alt="Screenshot 2023-01-11 at 18 04 19" src="https://user-images.githubusercontent.com/117511840/211870109-7563bf78-3265-4532-87ef-ed34ce2b1916.png">
+
+
 
 ## Information 
 
