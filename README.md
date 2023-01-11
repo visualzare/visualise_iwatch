@@ -10,8 +10,8 @@ The only visualisation available is a "barcode" where one trait is one day, and 
 
 The color code is this one :
 
-*Black : the highest value
-*White : the lowest value
+* Black : the highest value
+* White : the lowest value
 
 Every other values are on a gradient between white and black. 
 
